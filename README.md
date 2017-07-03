@@ -1,6 +1,6 @@
 # Tmux Window Index
 
-A tmux plugin that lets you change how windows are indexed.
+A tmux plugin that lets you change how windows indices are displayed.
 
 Default tmux behavior (Arabic numbers):
 ![screenshot-before](screenshots/screenshot-before.png)
